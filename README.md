@@ -25,13 +25,13 @@ app.listen(3000, () =>{
 ## **Languages :**  
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alinfor/alinfor/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alinfor/alinfor/blob/master/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
 
 </div><br>
