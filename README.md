@@ -1,7 +1,9 @@
 ### Hello ! My name Ali! 👋
 
 Hello, I am a web developer specialized in creating websites and applications. I am passionate about the latest technologies and enjoy working on innovative projects. On this profile, you can find my most recent projects and my contributions to open-source projects. Feel free to reach out to me if you have any questions or projects you would like to collaborate on.
+
 Portfolio: https://alinfor.github.io/alinfor/
+
 Project: https://net-flims.vercel.app
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
