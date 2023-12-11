@@ -8,7 +8,7 @@ let specialities =  {
 }
 
 function init(){
-    document.querySelector("#person-picture").src = "./src/img/ali.jpg"; 
+    document.querySelector("#person-picture").src = "./src/img/ali.png"; 
     document.querySelector("#person-fullname").innerHTML = "Ali Abdalla"
     document.querySelector("#person-firstname").innerHTML = "Ali";
     document.querySelector("#person-job").innerHTML = "Développeur web";
